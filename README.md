@@ -5,6 +5,7 @@
 
 ## Features
 * Support up to 4 languages currently (Python, Java, C#, HTML/CSS)
+* Automated codes can be export into relevant file types
 * Glossary
 
 ### Glossary
@@ -22,4 +23,7 @@
 * Bunifu - For the modern, clean C# UI
 
 ## Notes
-Will no longer be updating this app, source code has been released. Feel free to view, edit to your liking.
+Some stuff you can expect in the upcoming development..
+
+* **Python** package manager
+* Adding several new .xml data into glossary
