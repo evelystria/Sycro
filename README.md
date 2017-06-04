@@ -1,10 +1,10 @@
 # Sycro (in Development, 27%)
-> A simple, yet powerful process automation. This is a package manager I am developing for fun to ease myself in writing many lines of codes.
+> A simple, yet useful process automation. This is a package manager I am developing for fun to which automates code writing, and can then be exported into different languages files.
 
-![images](http://i.imgur.com/8XsYSSW.gif)
+![images](http://i.imgur.com/mHp8xxs.gif)
 
 ## Features
-* Support up to 4 languages currently (Python, Java, C#, HTML/CSS)
+* Supports up to 4 languages (Python, Java, C#, HTML/CSS)
 * Automated codes can be export into relevant file types
 * Glossary
 
