@@ -5,8 +5,8 @@
 
 ## Features
 * Supports up to 4 languages
-* * Released
-* * * Python
+  * Released
+    * Python
 * * Unreleased
 * * * Java
 * * * C#
