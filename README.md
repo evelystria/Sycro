@@ -7,10 +7,10 @@
 * Supports up to 4 languages
   * Released
     * Python
-* * Unreleased
-* * * Java
-* * * C#
-* * * HTML/CSS
+  * Unreleased
+    * Java
+    * C#
+    * HTML/CSS
 
 * Automated codes can be exported into relevant file types
 
