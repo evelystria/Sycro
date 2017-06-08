@@ -62,7 +62,4 @@ This will load everything into the solution file containing every required
 * Bunifu - For the modern, clean C# UI
 
 ## Notes
-> Some stuff you can expect in the upcoming development..
-
-* **Python** package manager
-* Adding several new .xml data into glossary
+All my projects are open-source. Contributions are welcome; you are free to view, edit and make any improvements. Redistribution of the project such as selling is prohibited.
