@@ -1,7 +1,12 @@
-# Sycro (version Alpha-01b-08/6/17)
+# Sycro (version Alpha-01c-15/7/17)
 > A simple, yet useful process automation. This is a package manager I am developing as I had an idea of, picking out the functions you need for a project.
 
 ![images](http://i.imgur.com/mHp8xxs.gif)
+
+## Changelogs
+* (Alpha-01c-15/7/17)
+  * Python function can now write statements
+  * Further reduced possible code redundancies
 
 ## Features
 * Supports up to 4 languages
