@@ -123,35 +123,35 @@
   <metadata name="bunifuTransition1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>301, 17</value>
   </metadata>
-  <data name="animation3.BlindCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation1.BlindCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
 </value>
   </data>
-  <data name="animation3.MosaicCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation1.MosaicCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAABIQwAASEML
 </value>
   </data>
-  <data name="animation3.MosaicShift" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation1.MosaicShift" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAD8L
 </value>
   </data>
-  <data name="animation3.ScaleCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation1.ScaleCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
 </value>
   </data>
-  <data name="animation3.SlideCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation1.SlideCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
@@ -161,47 +161,41 @@
   <metadata name="bunifuTransition2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>448, 17</value>
   </metadata>
-  <data name="animation4.BlindCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation2.BlindCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
 </value>
   </data>
-  <data name="animation4.MosaicCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation2.MosaicCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
 </value>
   </data>
-  <data name="animation4.MosaicShift" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation2.MosaicShift" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
 </value>
   </data>
-  <data name="animation4.ScaleCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation2.ScaleCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
 </value>
   </data>
-  <data name="animation4.SlideCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
+  <data name="animation2.SlideCoeff" mimetype="application/x-microsoft.net.object.binary.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0
         dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJh
         d2luZy5Qb2ludEYCAAAAAXgBeQAACwsCAAAAAAAAAAAAAAAL
 </value>
   </data>
-  <metadata name="bunifuTransition1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>301, 17</value>
-  </metadata>
-  <metadata name="bunifuTransition2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>448, 17</value>
-  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="bunifuFlatButton5.Iconimage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1163,56 +1157,6 @@
         2SAAAKg3GwQAAPVmgwAAoM7+/f/+P922YtyC4u/BAAAAAElFTkSuQmCC
 </value>
   </data>
-  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>141, 17</value>
-  </metadata>
-  <data name="bunifuCustomLabel3.Text" xml:space="preserve">
-    <value>This project was designed solely due to my free time and for fun.
-Sycro has no objectives to be met, therefore will not be seen as a
-fully functional software.
-
-Sycro is an open-source project which can be view, edit by anyone.
-
-Re-distribution, is however prohibited and anyone found doing so
-will be copyrighted. 
-
-If you find this software useful, tell me and spread it around. Find
-me through the following links below. Collaborations are welcome.</value>
-  </data>
-  <data name="bunifuThinButton22.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAJQAAAAqCAYAAABV/HLRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVHhe7dzPSxRhHMdx+7H+SFfYXSvNoqi8RkERpJmR
-        0aqVtVhpi5pYIUQEQYcgKAqDvRaBQR0qiqigoN9Q0KFDh/6nr/OZoclln5ZZe277PrzAw7PrYd7MPDt8
-        Zxp6dvQa4AtBwSuCglcEBa8ICl4RFLyqGtT2nQes8+Blaxt7ZC0Tr2z1uW/WcPE36oyOu45/66kntv7Q
-        Vdu2a9DZi/wzqO7+2fCL1px5btnhu9Zx5EYQ1xXr7ptBndFx1/HPDd2x1tPPgi6+h2G5uqkISvWlCwvW
-        PPHGOgcuOf8B6ltX/1wQ1tPgZPPCtu7Ol/VTFpRiapz8YJmRkvOLgKVy+ZvWVHxnW/YcdwelMxMxoRa6
-        FGp/VRGU9ky6zLk+BFSTPrlgHUO3/galX3PagLNnwnJs2H8+2Cp9ss17C1FQ2rFr9+5aDCTRPnrfMkdL
-        UVC6v6CfhK6FQBLrBq8FZ6n3UVCpqc/hWcq1EEhCl70VF35FQa2c/RneW3AtBJIK76wrKP3hWgDUgqDg
-        FUHBK4KCVwQFrwgKXhEUvCIoeEVQ8CoOSrfMdevctQhIKg4qHF1hXhz/KQ5Ks8Ea53QtApLQcIGGDMKg
-        NG2XLjx0LgSS0Oi4RsjDoDRknpr+yj4Ky9Yy/tK6BuaioCQ7Mm/pEw+ci4FqssPz1jb2uPwhBc2VN599
-        bWsPX3d+CHDRcwipqS/x08RxUKIh88bJj0xvIhHF1FR8axv7puOGyoKSTfuK4cOe7aP3nF8CSC5/Ozwz
-        LY1JKoISXf4yx0phfdq983gVRGPies+F3nehB1tcL81wBvWH6tNPwVUzP6KbVqhrevZAb+LRG3lcvUjV
-        oIBaERS8Iih4RVDwiqDgUa8tAvUmIXs/CP57AAAAAElFTkSuQmCC
-</value>
-  </data>
-  <data name="bunifuThinButton21.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAJQAAAAqCAYAAABV/HLRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ6SURBVHhe7dzLaxNRGIbxqk0vxhTSVJtaRfGydSO4Sa1t
-        02TaJE4DBUUqKIIgeIHiZaWCFQQVRIqIiHhbCC4E/8PPvDM4NuQ0TOLZ5Vn8oIuTbvIwc+bwTYZOnykZ
-        4AtBwSuCglcEBa8ICl4RFLzqGtSps3NW3CjbgRc1G9+u2/C30IZ+NzFg9L3r+8++rNn0tbKdPDfn7EV2
-        DWp2fdGGv4e2/03dJjcDm7pVseLVss02FzFg9L3r+y/cq1r2dS3qYvp62dlNR1CqL7e1amPvGla8QkDo
-        NHNpybKvatHF5kTpfFs/bUEpppGPDcvfD5z/CNipcLtqox8adnx+3h2UrkzEhF7oVqj9VUdQ2jPpNuf6
-        ENBNbqtmU3cq/4LS05w2WuyZ0I/D60s28umiHStfiIPSo6B2767FQBoTT1Ys/zCIg9L5gh4JXQuBNA7d
-        WI4e6KKgMp/D1lVq2bkQSEO3vT2/mnFQe3+uRWcLroVAWtHJuoLSH64FQC8ICl4RFLwiKHhFUPCKoOAV
-        QcErgoJXBAWvkqB0ZK6jc9ciIK0kKA2hMy+O/5UEpdlgjXO6FgFpaLhAQwZRUJq2yz1nHgr9yz8ILPds
-        NQ5KQ+aZryH7KPRt/G3dZi63bnsKSiY3W1eppyvOxUA3em9TLwOroyQozZWPbdft4M2K80OAi95DyHwJ
-        k7eJk6BEQ+YaNmd6E2koptH3DTsSLiQNtQUlR+sL0WzwxGNuf9hd4W41ujLtjEk6ghLd/vKPgqg+7d55
-        vQqiMXHtl3TMpFfRXT+a4QzqL9WnR8F9P9biQysMNL17oM23fpHH1Yt0DQroFUHBK4KCVwQFrwgKHpXs
-        DxJYIBF+5GS6AAAAAElFTkSuQmCC
-</value>
-  </data>
   <data name="bunifuThinButton26.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAGcAAAApCAYAAAAoEzflAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
@@ -1341,4 +1285,54 @@ me through the following links below. Collaborations are welcome.</value>
         UdKdPVpoXIrIqYHRACR+fCigrT04Vg5JF8oxDOUYhnIMQzlmKclvr/0++y/NWXIAAAAASUVORK5CYII=
 </value>
   </data>
+  <data name="bunifuCustomLabel3.Text" xml:space="preserve">
+    <value>This project was designed solely due to my free time and for fun.
+Sycro has no objectives to be met, therefore will not be seen as a
+fully functional software.
+
+Sycro is an open-source project which can be view, edit by anyone.
+
+Re-distribution, is however prohibited and anyone found doing so
+will be copyrighted. 
+
+If you find this software useful, tell me and spread it around. Find
+me through the following links below. Collaborations are welcome.</value>
+  </data>
+  <data name="bunifuThinButton22.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJQAAAAqCAYAAABV/HLRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVHhe7dzPSxRhHMdx+7H+SFfYXSvNoqi8RkERpJmR
+        0aqVtVhpi5pYIUQEQYcgKAqDvRaBQR0qiqigoN9Q0KFDh/6nr/OZoclln5ZZe277PrzAw7PrYd7MPDt8
+        Zxp6dvQa4AtBwSuCglcEBa8ICl4RFLyqGtT2nQes8+Blaxt7ZC0Tr2z1uW/WcPE36oyOu45/66kntv7Q
+        Vdu2a9DZi/wzqO7+2fCL1px5btnhu9Zx5EYQ1xXr7ptBndFx1/HPDd2x1tPPgi6+h2G5uqkISvWlCwvW
+        PPHGOgcuOf8B6ltX/1wQ1tPgZPPCtu7Ol/VTFpRiapz8YJmRkvOLgKVy+ZvWVHxnW/YcdwelMxMxoRa6
+        FGp/VRGU9ky6zLk+BFSTPrlgHUO3/galX3PagLNnwnJs2H8+2Cp9ss17C1FQ2rFr9+5aDCTRPnrfMkdL
+        UVC6v6CfhK6FQBLrBq8FZ6n3UVCpqc/hWcq1EEhCl70VF35FQa2c/RneW3AtBJIK76wrKP3hWgDUgqDg
+        FUHBK4KCVwQFrwgKXhEUvCIoeEVQ8CoOSrfMdevctQhIKg4qHF1hXhz/KQ5Ks8Ea53QtApLQcIGGDMKg
+        NG2XLjx0LgSS0Oi4RsjDoDRknpr+yj4Ky9Yy/tK6BuaioCQ7Mm/pEw+ci4FqssPz1jb2uPwhBc2VN599
+        bWsPX3d+CHDRcwipqS/x08RxUKIh88bJj0xvIhHF1FR8axv7puOGyoKSTfuK4cOe7aP3nF8CSC5/Ozwz
+        LY1JKoISXf4yx0phfdq983gVRGPies+F3nehB1tcL81wBvWH6tNPwVUzP6KbVqhrevZAb+LRG3lcvUjV
+        oIBaERS8Iih4RVDwiqDgUa8tAvUmIXs/CP57AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="bunifuThinButton21.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAJQAAAAqCAYAAABV/HLRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJ6SURBVHhe7dzLaxNRGIbxqk0vxhTSVJtaRfGydSO4Sa1t
+        02TaJE4DBUUqKIIgeIHiZaWCFQQVRIqIiHhbCC4E/8PPvDM4NuQ0TOLZ5Vn8oIuTbvIwc+bwTYZOnykZ
+        4AtBwSuCglcEBa8ICl4RFLzqGtSps3NW3CjbgRc1G9+u2/C30IZ+NzFg9L3r+8++rNn0tbKdPDfn7EV2
+        DWp2fdGGv4e2/03dJjcDm7pVseLVss02FzFg9L3r+y/cq1r2dS3qYvp62dlNR1CqL7e1amPvGla8QkDo
+        NHNpybKvatHF5kTpfFs/bUEpppGPDcvfD5z/CNipcLtqox8adnx+3h2UrkzEhF7oVqj9VUdQ2jPpNuf6
+        ENBNbqtmU3cq/4LS05w2WuyZ0I/D60s28umiHStfiIPSo6B2767FQBoTT1Ys/zCIg9L5gh4JXQuBNA7d
+        WI4e6KKgMp/D1lVq2bkQSEO3vT2/mnFQe3+uRWcLroVAWtHJuoLSH64FQC8ICl4RFLwiKHhFUPCKoOAV
+        QcErgoJXBAWvkqB0ZK6jc9ciIK0kKA2hMy+O/5UEpdlgjXO6FgFpaLhAQwZRUJq2yz1nHgr9yz8ILPds
+        NQ5KQ+aZryH7KPRt/G3dZi63bnsKSiY3W1eppyvOxUA3em9TLwOroyQozZWPbdft4M2K80OAi95DyHwJ
+        k7eJk6BEQ+YaNmd6E2koptH3DTsSLiQNtQUlR+sL0WzwxGNuf9hd4W41ujLtjEk6ghLd/vKPgqg+7d55
+        vQqiMXHtl3TMpFfRXT+a4QzqL9WnR8F9P9biQysMNL17oM23fpHH1Yt0DQroFUHBK4KCVwQFrwgKHpXs
+        DxJYIBF+5GS6AAAAAElFTkSuQmCC
+</value>
+  </data>
+  <metadata name="bunifuDragControl1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>141, 17</value>
+  </metadata>
 </root>
